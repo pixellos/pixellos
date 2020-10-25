@@ -4,5 +4,4 @@
 
 
 Credits: 
-- Avatar 
-#[](https://www.vecteezy.com/free-vector/ninja-cat)
+- Avatar <a href="https://www.vecteezy.com/free-vector/ninja-cat">Ninja Cat Vectors by Vecteezy</a>
