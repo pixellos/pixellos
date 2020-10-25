@@ -24,7 +24,7 @@ As these and hundreds of other small improvements accumulated, the results came 
 Source: https://heleo.com/get-1-better-every-day/19161/
 
 
-# Fun section:
+# Fun section
 
 ![](https://random-memer.herokuapp.com/)
 
