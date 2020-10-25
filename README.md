@@ -11,6 +11,10 @@
 
 - 🌱 I’m currently learning EventSourcing
 
+# Fun section:
+
+img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page is the meme doesn't show up.">
+
 
 Credits: 
 - Avatar <a href="https://www.vecteezy.com/free-vector/ninja-cat">Ninja Cat Vectors by Vecteezy</a>
