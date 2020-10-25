@@ -2,20 +2,21 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**
 
-- [Me](#me)
-- [Words of wisdom](#words-of-wisdom)
-- [Fun section](#fun-section)
+- [Me:](#me)
+- [Nindo:](#nindo)
+        - [From https://heleo.com/get-1-better-every-day/19161/](#from-httpsheleocomget-1-better-every-day19161)
+- [Fun section:](#fun-section)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-# Me
+## Me
 
 
 - 🌱 I’m currently learning EventSourcing
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=pixellos)
 
-# Words of wisdom
+## Words of wisdom
 
 As these and hundreds of other small improvements accumulated, the results came faster than anyone could have imagined.
 
@@ -23,7 +24,7 @@ As these and hundreds of other small improvements accumulated, the results came 
 Source: https://heleo.com/get-1-better-every-day/19161/
 
 
-# Fun section
+## Fun section
 
 ![](https://random-memer.herokuapp.com/)
 
