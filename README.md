@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning EventSourcing
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=pixellos)](https://github.com/anuraghazra/github-readme-stats)
+[![Stats](https://github-readme-stats.vercel.app/api?username=pixellos&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Words of wisdom
