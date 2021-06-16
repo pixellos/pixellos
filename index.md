@@ -1,37 +1,42 @@
-## Welcome to GitHub Pages
+# Reinvented Code
 
-You can use the [editor on GitHub](https://github.com/pixellos/pixellos/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- [Me](#me)
+- [Open Soruce Contributions](#open-soruce-contributions)
+- [Words of wisdom](#words-of-wisdom)
+- [Fun section](#fun-section)
 
-### Markdown
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Me
 
-```markdown
-Syntax highlighted code block
+At this very moment running my own consulting company "Code Reinvented".
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+## Open Source
 
-**Bold** and _Italic_ and `Code` text
+[![Stats](https://github-readme-stats.vercel.app/api?username=pixellos&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[Link](url) and ![Image](src)
-```
+### Contributions
+- https://github.com/papsign/Ktor-OpenAPI-Generator/pull/90
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+## Words of wisdom
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/pixellos/pixellos/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+As these and hundreds of other small improvements accumulated, the results came faster than anyone could have imagined.
 
-### Support or Contact
+![](https://cdn.heleo.com/wp-content/uploads/06205750/Screen-Shot-2018-09-28-at-2.54.53-PM-940x1024.png)
+Source: https://heleo.com/get-1-better-every-day/19161/
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+## Fun section
+
+![](https://random-memer.herokuapp.com/)
+
+
+Credits: 
+- Avatar <a href="https://www.vecteezy.com/free-vector/ninja-cat">Ninja Cat Vectors by Vecteezy</a>
