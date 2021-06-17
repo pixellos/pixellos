@@ -3,7 +3,7 @@
 **Table of Contents**
 
 - [Me](#me)
-- [Open Soruce Contributions](#open-soruce-contributions)
+- [Open Source Contributions](#open-source-contributions)
 - [Words of wisdom](#words-of-wisdom)
 - [Fun section](#fun-section)
 
