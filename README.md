@@ -18,7 +18,7 @@
 
 ## Open Source Contributions 
 - https://github.com/papsign/Ktor-OpenAPI-Generator/pull/90
-
+- https://github.com/domaindrivendev/Swashbuckle.AspNetCore/pull/2326
 
 ## Words of wisdom
 
