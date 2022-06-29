@@ -5,7 +5,6 @@
 - [Me](#me)
 - [Open Source Contributions](#open-source-contributions)
 - [Words of wisdom](#words-of-wisdom)
-- [Fun section](#fun-section)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
